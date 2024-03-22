@@ -1,14 +1,12 @@
 <img width="900" alt="Zrzut ekranu 2024-03-22 211639" src="https://github.com/kseternus/notepad_ultra_9000/assets/60841895/be88ceb5-651b-4524-aaf5-79d2e6cb88aa">
 
-![](https://github.com/kseternus/notepad_ultra_9000/assets/60841895/0177d312-56de-4291-8421-f717e3b45a5b)
-
-
 Text editor v0.1 beta
-Added working functions:
-  Menu with cascades: File, Edit, View and About
+
+	Added working functions:
+  	Menu with cascades: File, Edit, View and About
     File:
     - Open: opens window to open file
-    - Save: save acctualy opened file, if it's new file works like Save as...
+    - Save: save acctualy opened file, if it's new file works like Save as...	
     - Save as...: opens window to save file with given name
     - Print: opens window with list of installed printers and print file (as pdf, phisical copy etc.)
     - Exit: open new window asking if user is sure to exit program
@@ -29,6 +27,8 @@ Added working functions:
     - Text wrapping button
     About
     - About: open small window with some info about program 
+		
+  	Adding opened file name to title
+  	Counting chars and lines
 
-  Adding opened file name to title
-  Counting chars and lines
+![](https://github.com/kseternus/notepad_ultra_9000/assets/60841895/0177d312-56de-4291-8421-f717e3b45a5b)
